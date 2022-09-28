@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 # Java Training
 🖊️ Java exercises for our software training!
+=======
+# Java Training Exercises
+🖊️ Exercises for our software training!
+>>>>>>> origin/main
 
 ## How to Use this Repository
 <ol> 
